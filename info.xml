@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<c2addon>
+	<!-- One of: plugin, behavior, effect -->
+	<type>behavior</type>
+	
+	<name>Tank Movement</name>
+	<version>0.9</version>
+	<author>JeyDotC</author>
+	<website>https://github.com/JeyDotC/construct2-tank_movement</website>
+	<documentation>https://github.com/JeyDotC/construct2-tank_movement.</documentation>
+	<description>Moves an object as in the first versions of Resident Evil.</description>
+</c2addon>
